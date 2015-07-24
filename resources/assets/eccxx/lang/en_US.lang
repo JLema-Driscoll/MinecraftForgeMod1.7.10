@@ -1,0 +1,16 @@
+tile.tutorialBlock.name=GlowBlue
+
+item.TitaniumHelm.name=Titanium Helm
+item.TitaniumChest.name=Titanium Chest
+item.TitaniumBoots.name=Titanium Boots
+item.TitaniumChest.name=Titanium Chest
+item.TitaniumLegs.name=Titanium Legs
+
+
+item.tutorialItem.name=GlowBlue Dust
+item.tutorialFood.name=Block Food
+
+itemGroup.tabModBlocks=Mod Blocks
+itemGroup.tabModItems=Mod Items
+
+

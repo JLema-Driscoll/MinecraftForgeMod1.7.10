@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ECC",
+  "name": "Max's Mod",
+  "description": "EEC Mod",
+  "version": "0.1",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Max Barlow"],
+  "credits": "Max Barlow and the teachers at ECC",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
